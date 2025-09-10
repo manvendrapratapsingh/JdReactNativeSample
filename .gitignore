@@ -73,3 +73,9 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+# Local dev and environment files
+.env
+.env.*
+.vscode/
+android/app/release/
