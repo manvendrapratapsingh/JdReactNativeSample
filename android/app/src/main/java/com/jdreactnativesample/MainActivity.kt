@@ -19,4 +19,14 @@ class MainActivity : ReactActivity() {
    */
   override fun createReactActivityDelegate(): ReactActivityDelegate =
       DefaultReactActivityDelegate(this, mainComponentName, fabricEnabled)
+
+  override fun onNewIntent(intent: android.content.Intent?) {
+    super.onNewIntent(intent)
+    // Forward potential OCR result intents to the native module
+    try {
+      OCRNativeModule.onNewIntentFromActivity(intent)
+    } catch (_: Exception) {
+      // best-effort; avoid crashing if module not ready
+    }
+  }
 }
