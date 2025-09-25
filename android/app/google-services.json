@@ -1,0 +1,139 @@
+{
+  "project_info": {
+    "project_number": "134377649404",
+    "project_id": "ambient-stack-467317-n7",
+    "storage_bucket": "ambient-stack-467317-n7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134377649404:android:b965229c18119551a15379",
+        "android_client_info": {
+          "package_name": "com.jdreactnativesample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134377649404-5nmctqm8bieu78pbe9be7b90vlm4cl24.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jdreactnativesample",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "134377649404-bd8ch63v9hdlgs16q77q3mo6c9a362jc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0uzM0qSMagR-HzEhUkmAdLeaXm_HhsxU"
+        },
+        {
+          "current_key": "AIzaSyDq5lEzYEk0SA1HNCahtFCcUPBOwtanKDQ"
+        },
+        {
+          "current_key": "AIzaSyBiVHexB9fEcfSCvY_gZQLjEqciopABkOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134377649404-bd8ch63v9hdlgs16q77q3mo6c9a362jc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134377649404:android:1cd3a6e1a7c958a5a15379",
+        "android_client_info": {
+          "package_name": "com.justdial.ocr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134377649404-bpm100a8e11s0hj1q79cphe7nlj52u18.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.justdial.ocr",
+            "certificate_hash": "4804409519ecbd808e9cf0f00188439e30852006"
+          }
+        },
+        {
+          "client_id": "134377649404-bd8ch63v9hdlgs16q77q3mo6c9a362jc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0uzM0qSMagR-HzEhUkmAdLeaXm_HhsxU"
+        },
+        {
+          "current_key": "AIzaSyDq5lEzYEk0SA1HNCahtFCcUPBOwtanKDQ"
+        },
+        {
+          "current_key": "AIzaSyBiVHexB9fEcfSCvY_gZQLjEqciopABkOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134377649404-bd8ch63v9hdlgs16q77q3mo6c9a362jc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:134377649404:android:a87225fbd99bb87fa15379",
+        "android_client_info": {
+          "package_name": "com.justdialocrsdkexample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "134377649404-r12cchqqo56l2ih7np1tu3270rld5j5c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.justdialocrsdkexample",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "134377649404-bd8ch63v9hdlgs16q77q3mo6c9a362jc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0uzM0qSMagR-HzEhUkmAdLeaXm_HhsxU"
+        },
+        {
+          "current_key": "AIzaSyDq5lEzYEk0SA1HNCahtFCcUPBOwtanKDQ"
+        },
+        {
+          "current_key": "AIzaSyBiVHexB9fEcfSCvY_gZQLjEqciopABkOE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "134377649404-bd8ch63v9hdlgs16q77q3mo6c9a362jc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

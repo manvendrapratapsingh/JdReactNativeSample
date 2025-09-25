@@ -1,6 +1,8 @@
 pluginManagement { includeBuild("../node_modules/@react-native/gradle-plugin") }
 plugins { id("com.facebook.react.settings") }
 extensions.configure(com.facebook.react.ReactSettingsExtension){ ex -> ex.autolinkLibrariesFromCommand() }
-rootProject.name = 'JdReactNativeSample'
+rootProject.name = 'JDCombinedApp'
 include ':app'
+include ':JustdialOCR'
+project(':JustdialOCR').projectDir = new File(rootProject.projectDir, 'JustdialOCR')
 includeBuild('../node_modules/@react-native/gradle-plugin')
